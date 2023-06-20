@@ -12,13 +12,10 @@ function Login() {
     const signIn = e => {
         e.preventDefault();
 
-
     }
 
     const register = e => {
         e.preventDefault();
-
-
 
     }
 
